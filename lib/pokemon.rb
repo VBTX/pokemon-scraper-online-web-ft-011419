@@ -8,7 +8,7 @@ class Pokemon
     @name = name
     @type = type
     @db = db
-    @hp = hp
+    @hp = nil
     end
 
     def self.all
